@@ -299,6 +299,6 @@ static struct mipi_dsi_driver wd5ea5f01_driver = {
 };
 module_mipi_dsi_driver(wd5ea5f01_driver);
 
-MODULE_AUTHOR("Engineer162");
+MODULE_AUTHOR("Engineer162 <contact@hh-machinery.eu>");
 MODULE_DESCRIPTION("DRM driver for BOE WD5EA5F01 AMOLED panel");
 MODULE_LICENSE("GPL");
